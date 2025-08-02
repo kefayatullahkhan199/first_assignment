@@ -2,7 +2,7 @@ import 'package:first_assignment/controllers/login_provider.dart';
 import 'package:first_assignment/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+/// this is starting point of the project
 void main() {
   runApp(const MyApp());
 }
