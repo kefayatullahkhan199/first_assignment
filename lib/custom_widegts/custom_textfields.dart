@@ -20,14 +20,18 @@ class CustomFields extends StatelessWidget {
         decoration: InputDecoration(
             focusedBorder: OutlineInputBorder(
               borderSide: BorderSide(color: AppColors.lightOrangeColor, width: 1),
+              borderRadius: BorderRadius.circular(12)
             ),
             enabledBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: AppColors.whiteColor, width: 1)),
+                borderSide: BorderSide(color: AppColors.whiteColor, width: 1),
+              borderRadius: BorderRadius.circular(12)
+            ),
+                
             hintText: hintText,
             fillColor: fieldColor,
             filled: true,
             border: OutlineInputBorder(
-              borderRadius: BorderRadius.circular(20),
+              borderRadius: BorderRadius.circular(12),
             )),
       ),
     );
