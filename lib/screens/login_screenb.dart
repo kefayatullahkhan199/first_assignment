@@ -3,7 +3,7 @@ import 'package:first_assignment/controllers/login_provider.dart';
 import 'package:first_assignment/custom_widegts/custom_buttons.dart';
 import 'package:first_assignment/custom_widegts/custom_socailButtons.dart';
 import 'package:first_assignment/custom_widegts/custom_textfields.dart';
-import 'package:first_assignment/signUp_screenb.dart';
+import 'package:first_assignment/screens/signUp_screenb.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:provider/provider.dart';

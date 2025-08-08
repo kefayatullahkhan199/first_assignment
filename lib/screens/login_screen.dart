@@ -2,7 +2,7 @@ import 'package:first_assignment/configs/app_colors.dart';
 import 'package:first_assignment/controllers/login_provider.dart';
 import 'package:first_assignment/custom_widegts/custom_buttons.dart';
 import 'package:first_assignment/custom_widegts/custom_textfields.dart';
-import 'package:first_assignment/sign_up_screen.dart';
+import 'package:first_assignment/screens/sign_up_screen.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
